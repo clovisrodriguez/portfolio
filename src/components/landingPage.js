@@ -152,7 +152,7 @@ export default class LandingPage extends Component {
                 animateOut="bounceOut"
                 delay={600}
               >
-                <i className="fab fa-google" />
+                <i className="fab fa-aws" />
               </ScrollAnimation>
             </div>
           </div>
