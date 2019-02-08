@@ -54,7 +54,7 @@ export default class LandingPage extends Component {
               delay={1500}
             >
               <div className="row">
-                <h1 className="display-4 offset-1 col-10">
+                <h1 className="display-5 offset-1 col-10">
                   <FormattedMessage id="LANDING.TITLE_2" />
                 </h1>
               </div>
@@ -315,7 +315,7 @@ export default class LandingPage extends Component {
               <a href="mailto:clovis1992@gmail.com?Subject=I%20Want%20To%Hire%20You">
                 <h4>clovis1992@gmail.com</h4>
               </a>
-              <a href="tel:+5713213764628">
+              <a href="tel:+(571) 321 376 4628">
                 <h4>(+571) 321 376 4628</h4>
               </a>
               <div className="social">
@@ -324,6 +324,9 @@ export default class LandingPage extends Component {
                   href="https://www.linkedin.com/in/clovisrodriguez"
                 >
                   <i className="fab fa-linkedin" />
+                </a>
+                <a target="blank" href="https://github.com/clovisrodriguez">
+                  <i className="fab fa-github" />
                 </a>
                 <a target="blank" href="https://gitlab.com/clovisrodriguez">
                   <i className="fab fa-gitlab" />
