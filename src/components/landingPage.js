@@ -43,7 +43,7 @@ export default class LandingPage extends Component {
               animateOut="bounceOutLeft"
             >
               <div className="row">
-                <h1 className="show display-4 offset-1 col-10">
+                <h1 className="show display-3 offset-1 col-10">
                   <FormattedMessage id="LANDING.TITLE" />
                 </h1>
               </div>

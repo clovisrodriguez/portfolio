@@ -7,9 +7,14 @@
 
 .display-4 {
   font-weight: bold;
-  @media (min-width: $lg) {
+  font-size: 3rem;
+  @media (min-width: $xl) {
     font-size: 5rem;
   }
+}
+
+.display-4 {
+  font-weight: bold;
 }
 
 .display-5 {
